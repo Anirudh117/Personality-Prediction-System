@@ -1,4 +1,6 @@
-🧠 Personality Prediction System
+**🧠 Personality Prediction System**
+
+
 A machine learning-based Personality Prediction System that predicts a user's personality type based on their text input using the MBTI (Myers-Briggs Type Indicator) model.
 
 Predict personality type (e.g., INTJ, ENFP, etc.) from user text.
